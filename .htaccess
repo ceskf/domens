@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule ^(checkDomain)\.html /checkDomain.php [QSA,L,B]
